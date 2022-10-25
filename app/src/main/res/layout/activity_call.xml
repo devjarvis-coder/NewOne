@@ -74,7 +74,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:fontFamily="@font/roboto_light"
-                android:text="Mian Asad Ali"
+                android:text="*******"
                 android:textColor="@color/white"
                 android:textStyle="bold" />
 
@@ -83,7 +83,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:fontFamily="@font/roboto_light"
-                android:text="Lahore, Pakistan"
+                android:text="*******"
                 android:textColor="@color/white"
                 android:textSize="10sp" />
         </LinearLayout>
